@@ -77,7 +77,3 @@ function loadVisualisation(container) {
   loader.append(svg)
   container.append(loader)
 }
-
-
-
-
