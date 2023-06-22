@@ -1,0 +1,9 @@
+
+.loader{
+  position: absolute;
+  top: 50vh;
+  right: 50vw;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
